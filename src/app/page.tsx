@@ -1,5 +1,6 @@
 // Design: https://www.figma.com/community/file/891374608655348853/website-of-architects-free-website
 
+'use client';
 import Image from 'next/image';
 import ContactForm from '../app/components/contact-form';
 import rectangle6 from "@/app/images/Rectangle 6.png";
